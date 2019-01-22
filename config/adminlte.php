@@ -116,6 +116,18 @@ return [
             // 'can'  => 'manage-blog',
         ],
         [
+            'text' => 'Courses',
+            'url'  => 'admin/courses',
+            'icon' => 'users'
+            // 'can'  => 'manage-blog',
+        ],
+        [
+            'text' => 'Department',
+            'url'  => 'admin/departments',
+            'icon' => 'users'
+            // 'can'  => 'manage-blog',
+        ],
+        [
             'text'        => 'Pages',
             'url'         => 'admin/pages',
             'icon'        => 'file',
